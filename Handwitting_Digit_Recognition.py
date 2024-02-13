@@ -97,13 +97,3 @@ if key_pressed2 == ord("y") or key_pressed2 == ord("Y"):
 
         finally:
             image_number += 1
-
-###########################################################################
-
-print('\n\n\n##############################################\n'
-      '# Student Name: Ahmed Hijjawi                #\n'
-      '# Student Name: Ahmed Alzoul                 #\n'
-      '# Student Name: Ayham Asfoor                 #\n'
-      '# Student Name: Omar Waleed                  #\n'
-      '# Supervised by: Dr. Rashad Rasras           #\n'
-      '##############################################\n')
